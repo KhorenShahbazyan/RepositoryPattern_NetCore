@@ -1,0 +1,35 @@
+﻿@model Test.Web.Client.Models.RedirectIdModel
+@{
+    ViewData["Title"] = "Shopping Page";
+}
+
+<div class="row mt-10">
+    @if (Model != null)
+    {
+        <input type="button" value="Payment" onclick="@("window.location.href='" + @Url.Action("RedirectToPayment","Home")+"?orderId=" + @Model.Id+ "'");" />
+    }
+    <table class="table table-striped table-hover table-bordered">
+        <thead>
+            <tr>
+                <th class="center">Product Name</th>
+                <th class="center">Price</th>
+                <th class="center">Quantity</th>
+                <th class="center"></th>
+            </tr>
+        </thead>
+        <tbody id="shopping"></tbody>
+    </table>
+
+</div>
+<script type="text/javascript" src="~/js/shoppingpage.js"></script>
+<script>
+    var data = @Html.Raw(Newtonsoft.Json.JsonConvert.SerializeObject(Model));
+
+    $(document).ready(function () {
+        if (data != undefined && data.Id != undefined) {
+            GetOrderedProducts(data.Id);
+        }
+    });
+
+
+</script>

@@ -1,0 +1,106 @@
+C:\Users\karen.hovhannisyan\Desktop\Test_ApolloButes\Khoren.Test\Test.API.UnitTest\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\karen.hovhannisyan\Desktop\Test_ApolloButes\Khoren.Test\Test.API.UnitTest\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\karen.hovhannisyan\Desktop\Test_ApolloButes\Khoren.Test\Test.API.UnitTest\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\karen.hovhannisyan\Desktop\Test_ApolloButes\Khoren.Test\Test.API.UnitTest\bin\Debug\netcoreapp1.1\Test.API.UnitTest.deps.json
+C:\Users\karen.hovhannisyan\Desktop\Test_ApolloButes\Khoren.Test\Test.API.UnitTest\bin\Debug\netcoreapp1.1\Test.API.UnitTest.runtimeconfig.json
+C:\Users\karen.hovhannisyan\Desktop\Test_ApolloButes\Khoren.Test\Test.API.UnitTest\bin\Debug\netcoreapp1.1\Test.API.UnitTest.runtimeconfig.dev.json
+C:\Users\karen.hovhannisyan\Desktop\Test_ApolloButes\Khoren.Test\Test.API.UnitTest\bin\Debug\netcoreapp1.1\Test.API.UnitTest.dll
+C:\Users\karen.hovhannisyan\Desktop\Test_ApolloButes\Khoren.Test\Test.API.UnitTest\bin\Debug\netcoreapp1.1\Test.API.UnitTest.pdb
+C:\Users\karen.hovhannisyan\Desktop\Test_ApolloButes\Khoren.Test\Test.API.UnitTest\bin\Debug\netcoreapp1.1\Test.Core.dll
+C:\Users\karen.hovhannisyan\Desktop\Test_ApolloButes\Khoren.Test\Test.API.UnitTest\bin\Debug\netcoreapp1.1\Test.Web.Api.dll
+C:\Users\karen.hovhannisyan\Desktop\Test_ApolloButes\Khoren.Test\Test.API.UnitTest\bin\Debug\netcoreapp1.1\Test.Web.Api.pdb
+C:\Users\karen.hovhannisyan\Desktop\Test_ApolloButes\Khoren.Test\Test.API.UnitTest\bin\Debug\netcoreapp1.1\Test.Core.pdb
+C:\Users\karen.hovhannisyan\Desktop\Test_ApolloButes\Khoren.Test\Test.API.UnitTest\obj\Debug\netcoreapp1.1\Test.API.UnitTest.csprojResolveAssemblyReference.cache
+C:\Users\karen.hovhannisyan\Desktop\Test_ApolloButes\Khoren.Test\Test.API.UnitTest\obj\Debug\netcoreapp1.1\Test.API.UnitTest.csproj.CoreCompileInputs.cache
+C:\Users\karen.hovhannisyan\Desktop\Test_ApolloButes\Khoren.Test\Test.API.UnitTest\obj\Debug\netcoreapp1.1\Test.API.UnitTest.AssemblyInfo.cs
+C:\Users\karen.hovhannisyan\Desktop\Test_ApolloButes\Khoren.Test\Test.API.UnitTest\obj\Debug\netcoreapp1.1\Test.API.UnitTest.dll
+C:\Users\karen.hovhannisyan\Desktop\Test_ApolloButes\Khoren.Test\Test.API.UnitTest\obj\Debug\netcoreapp1.1\Test.API.UnitTest.pdb
+C:\Users\Khoren\Desktop\Test_ApolloButes\Khoren.Test\Test.API.UnitTest\bin\Debug\netcoreapp1.1\Test.API.UnitTest.deps.json
+C:\Users\Khoren\Desktop\Test_ApolloButes\Khoren.Test\Test.API.UnitTest\bin\Debug\netcoreapp1.1\Test.API.UnitTest.runtimeconfig.json
+C:\Users\Khoren\Desktop\Test_ApolloButes\Khoren.Test\Test.API.UnitTest\bin\Debug\netcoreapp1.1\Test.API.UnitTest.runtimeconfig.dev.json
+C:\Users\Khoren\Desktop\Test_ApolloButes\Khoren.Test\Test.API.UnitTest\obj\Debug\netcoreapp1.1\Test.API.UnitTest.csprojResolveAssemblyReference.cache
+C:\Users\Khoren\Desktop\Test_ApolloButes\Khoren.Test\Test.API.UnitTest\obj\Debug\netcoreapp1.1\Test.API.UnitTest.csproj.CoreCompileInputs.cache
+C:\Users\Khoren\Desktop\Test_ApolloButes\Khoren.Test\Test.API.UnitTest\obj\Debug\netcoreapp1.1\Test.API.UnitTest.AssemblyInfo.cs
+C:\Users\Khoren\Desktop\Test_ApolloButes\Khoren.Test\Test.API.UnitTest\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Khoren\Desktop\Test_ApolloButes\Khoren.Test\Test.API.UnitTest\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Khoren\Desktop\Test_ApolloButes\Khoren.Test\Test.API.UnitTest\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Khoren\Desktop\Test_ApolloButes\Khoren.Test\Test.API.UnitTest\bin\Debug\netcoreapp1.1\Test.API.UnitTest.dll
+C:\Users\Khoren\Desktop\Test_ApolloButes\Khoren.Test\Test.API.UnitTest\bin\Debug\netcoreapp1.1\Test.API.UnitTest.pdb
+C:\Users\Khoren\Desktop\Test_ApolloButes\Khoren.Test\Test.API.UnitTest\bin\Debug\netcoreapp1.1\Test.Core.dll
+C:\Users\Khoren\Desktop\Test_ApolloButes\Khoren.Test\Test.API.UnitTest\bin\Debug\netcoreapp1.1\Test.Web.Api.dll
+C:\Users\Khoren\Desktop\Test_ApolloButes\Khoren.Test\Test.API.UnitTest\bin\Debug\netcoreapp1.1\Test.Core.pdb
+C:\Users\Khoren\Desktop\Test_ApolloButes\Khoren.Test\Test.API.UnitTest\bin\Debug\netcoreapp1.1\Test.Web.Api.pdb
+C:\Users\Khoren\Desktop\Test_ApolloButes\Khoren.Test\Test.API.UnitTest\obj\Debug\netcoreapp1.1\Test.API.UnitTest.dll
+C:\Users\Khoren\Desktop\Test_ApolloButes\Khoren.Test\Test.API.UnitTest\obj\Debug\netcoreapp1.1\Test.API.UnitTest.pdb
+C:\Users\Khoren\Desktop\Test_ApolloBytes\Khoren.Test\Test.API.UnitTest\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Khoren\Desktop\Test_ApolloBytes\Khoren.Test\Test.API.UnitTest\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Khoren\Desktop\Test_ApolloBytes\Khoren.Test\Test.API.UnitTest\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Khoren\Desktop\Test_ApolloBytes\Khoren.Test\Test.API.UnitTest\bin\Debug\netcoreapp1.1\Test.API.UnitTest.deps.json
+C:\Users\Khoren\Desktop\Test_ApolloBytes\Khoren.Test\Test.API.UnitTest\bin\Debug\netcoreapp1.1\Test.API.UnitTest.runtimeconfig.json
+C:\Users\Khoren\Desktop\Test_ApolloBytes\Khoren.Test\Test.API.UnitTest\bin\Debug\netcoreapp1.1\Test.API.UnitTest.runtimeconfig.dev.json
+C:\Users\Khoren\Desktop\Test_ApolloBytes\Khoren.Test\Test.API.UnitTest\bin\Debug\netcoreapp1.1\Test.API.UnitTest.dll
+C:\Users\Khoren\Desktop\Test_ApolloBytes\Khoren.Test\Test.API.UnitTest\bin\Debug\netcoreapp1.1\Test.API.UnitTest.pdb
+C:\Users\Khoren\Desktop\Test_ApolloBytes\Khoren.Test\Test.API.UnitTest\bin\Debug\netcoreapp1.1\Test.Core.dll
+C:\Users\Khoren\Desktop\Test_ApolloBytes\Khoren.Test\Test.API.UnitTest\bin\Debug\netcoreapp1.1\Test.Web.Api.dll
+C:\Users\Khoren\Desktop\Test_ApolloBytes\Khoren.Test\Test.API.UnitTest\bin\Debug\netcoreapp1.1\Test.Core.pdb
+C:\Users\Khoren\Desktop\Test_ApolloBytes\Khoren.Test\Test.API.UnitTest\bin\Debug\netcoreapp1.1\Test.Web.Api.pdb
+C:\Users\Khoren\Desktop\Test_ApolloBytes\Khoren.Test\Test.API.UnitTest\obj\Debug\netcoreapp1.1\Test.API.UnitTest.csprojResolveAssemblyReference.cache
+C:\Users\Khoren\Desktop\Test_ApolloBytes\Khoren.Test\Test.API.UnitTest\obj\Debug\netcoreapp1.1\Test.API.UnitTest.csproj.CoreCompileInputs.cache
+C:\Users\Khoren\Desktop\Test_ApolloBytes\Khoren.Test\Test.API.UnitTest\obj\Debug\netcoreapp1.1\Test.API.UnitTest.AssemblyInfo.cs
+C:\Users\Khoren\Desktop\Test_ApolloBytes\Khoren.Test\Test.API.UnitTest\obj\Debug\netcoreapp1.1\Test.API.UnitTest.dll
+C:\Users\Khoren\Desktop\Test_ApolloBytes\Khoren.Test\Test.API.UnitTest\obj\Debug\netcoreapp1.1\Test.API.UnitTest.pdb
+G:\Khoren.Test_ApolloBytes\Test.API.UnitTest\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+G:\Khoren.Test_ApolloBytes\Test.API.UnitTest\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+G:\Khoren.Test_ApolloBytes\Test.API.UnitTest\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+G:\Khoren.Test_ApolloBytes\Test.API.UnitTest\bin\Debug\netcoreapp1.1\Test.API.UnitTest.deps.json
+G:\Khoren.Test_ApolloBytes\Test.API.UnitTest\bin\Debug\netcoreapp1.1\Test.API.UnitTest.runtimeconfig.json
+G:\Khoren.Test_ApolloBytes\Test.API.UnitTest\bin\Debug\netcoreapp1.1\Test.API.UnitTest.runtimeconfig.dev.json
+G:\Khoren.Test_ApolloBytes\Test.API.UnitTest\bin\Debug\netcoreapp1.1\Test.API.UnitTest.dll
+G:\Khoren.Test_ApolloBytes\Test.API.UnitTest\bin\Debug\netcoreapp1.1\Test.API.UnitTest.pdb
+G:\Khoren.Test_ApolloBytes\Test.API.UnitTest\bin\Debug\netcoreapp1.1\Test.Core.dll
+G:\Khoren.Test_ApolloBytes\Test.API.UnitTest\bin\Debug\netcoreapp1.1\Test.Web.Api.dll
+G:\Khoren.Test_ApolloBytes\Test.API.UnitTest\bin\Debug\netcoreapp1.1\Test.Core.pdb
+G:\Khoren.Test_ApolloBytes\Test.API.UnitTest\bin\Debug\netcoreapp1.1\Test.Web.Api.pdb
+G:\Khoren.Test_ApolloBytes\Test.API.UnitTest\obj\Debug\netcoreapp1.1\Test.API.UnitTest.csprojResolveAssemblyReference.cache
+G:\Khoren.Test_ApolloBytes\Test.API.UnitTest\obj\Debug\netcoreapp1.1\Test.API.UnitTest.csproj.CoreCompileInputs.cache
+G:\Khoren.Test_ApolloBytes\Test.API.UnitTest\obj\Debug\netcoreapp1.1\Test.API.UnitTest.AssemblyInfo.cs
+G:\Khoren.Test_ApolloBytes\Test.API.UnitTest\obj\Debug\netcoreapp1.1\Test.API.UnitTest.dll
+G:\Khoren.Test_ApolloBytes\Test.API.UnitTest\obj\Debug\netcoreapp1.1\Test.API.UnitTest.pdb
+G:\MyDocument\Interviews\Khoren.Test_ApolloBytes\Test.API.UnitTest\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+G:\MyDocument\Interviews\Khoren.Test_ApolloBytes\Test.API.UnitTest\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+G:\MyDocument\Interviews\Khoren.Test_ApolloBytes\Test.API.UnitTest\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+G:\MyDocument\Interviews\Khoren.Test_ApolloBytes\Test.API.UnitTest\bin\Debug\netcoreapp1.1\Test.API.UnitTest.deps.json
+G:\MyDocument\Interviews\Khoren.Test_ApolloBytes\Test.API.UnitTest\bin\Debug\netcoreapp1.1\Test.API.UnitTest.runtimeconfig.json
+G:\MyDocument\Interviews\Khoren.Test_ApolloBytes\Test.API.UnitTest\bin\Debug\netcoreapp1.1\Test.API.UnitTest.runtimeconfig.dev.json
+G:\MyDocument\Interviews\Khoren.Test_ApolloBytes\Test.API.UnitTest\bin\Debug\netcoreapp1.1\Test.API.UnitTest.dll
+G:\MyDocument\Interviews\Khoren.Test_ApolloBytes\Test.API.UnitTest\bin\Debug\netcoreapp1.1\Test.API.UnitTest.pdb
+G:\MyDocument\Interviews\Khoren.Test_ApolloBytes\Test.API.UnitTest\bin\Debug\netcoreapp1.1\Test.Core.dll
+G:\MyDocument\Interviews\Khoren.Test_ApolloBytes\Test.API.UnitTest\bin\Debug\netcoreapp1.1\Test.Web.Api.dll
+G:\MyDocument\Interviews\Khoren.Test_ApolloBytes\Test.API.UnitTest\bin\Debug\netcoreapp1.1\Test.Core.pdb
+G:\MyDocument\Interviews\Khoren.Test_ApolloBytes\Test.API.UnitTest\bin\Debug\netcoreapp1.1\Test.Web.Api.pdb
+G:\MyDocument\Interviews\Khoren.Test_ApolloBytes\Test.API.UnitTest\obj\Debug\netcoreapp1.1\Test.API.UnitTest.csproj.CoreCompileInputs.cache
+G:\MyDocument\Interviews\Khoren.Test_ApolloBytes\Test.API.UnitTest\obj\Debug\netcoreapp1.1\Test.API.UnitTest.AssemblyInfo.cs
+G:\MyDocument\Interviews\Khoren.Test_ApolloBytes\Test.API.UnitTest\obj\Debug\netcoreapp1.1\Test.API.UnitTest.dll
+G:\MyDocument\Interviews\Khoren.Test_ApolloBytes\Test.API.UnitTest\obj\Debug\netcoreapp1.1\Test.API.UnitTest.pdb
+G:\MyDocument\Interviews\Khoren.Test_ApolloBytes\Test.API.UnitTest\obj\Debug\netcoreapp1.1\Test.API.UnitTest.csprojAssemblyReference.cache
+G:\MyDocument\Interviews\Khoren.Test_ApolloBytes\Test.API.UnitTest\obj\Debug\netcoreapp1.1\Test.API.UnitTest.AssemblyInfoInputs.cache
+G:\MyDocument\Interviews\Khoren.Test_ApolloBytes\Test.API.UnitTest\obj\Debug\netcoreapp1.1\Test.API.UnitTest.csproj.CopyComplete
+G:\MyDocument\Interviews\git repo\RepositoryPattern_NetCore\Test.API.UnitTest\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+G:\MyDocument\Interviews\git repo\RepositoryPattern_NetCore\Test.API.UnitTest\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+G:\MyDocument\Interviews\git repo\RepositoryPattern_NetCore\Test.API.UnitTest\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+G:\MyDocument\Interviews\git repo\RepositoryPattern_NetCore\Test.API.UnitTest\bin\Debug\netcoreapp1.1\Test.API.UnitTest.deps.json
+G:\MyDocument\Interviews\git repo\RepositoryPattern_NetCore\Test.API.UnitTest\bin\Debug\netcoreapp1.1\Test.API.UnitTest.runtimeconfig.json
+G:\MyDocument\Interviews\git repo\RepositoryPattern_NetCore\Test.API.UnitTest\bin\Debug\netcoreapp1.1\Test.API.UnitTest.runtimeconfig.dev.json
+G:\MyDocument\Interviews\git repo\RepositoryPattern_NetCore\Test.API.UnitTest\bin\Debug\netcoreapp1.1\Test.API.UnitTest.dll
+G:\MyDocument\Interviews\git repo\RepositoryPattern_NetCore\Test.API.UnitTest\bin\Debug\netcoreapp1.1\Test.API.UnitTest.pdb
+G:\MyDocument\Interviews\git repo\RepositoryPattern_NetCore\Test.API.UnitTest\bin\Debug\netcoreapp1.1\Test.Core.dll
+G:\MyDocument\Interviews\git repo\RepositoryPattern_NetCore\Test.API.UnitTest\bin\Debug\netcoreapp1.1\Test.Web.Api.dll
+G:\MyDocument\Interviews\git repo\RepositoryPattern_NetCore\Test.API.UnitTest\bin\Debug\netcoreapp1.1\Test.Core.pdb
+G:\MyDocument\Interviews\git repo\RepositoryPattern_NetCore\Test.API.UnitTest\bin\Debug\netcoreapp1.1\Test.Web.Api.pdb
+G:\MyDocument\Interviews\git repo\RepositoryPattern_NetCore\Test.API.UnitTest\obj\Debug\netcoreapp1.1\Test.API.UnitTest.csprojAssemblyReference.cache
+G:\MyDocument\Interviews\git repo\RepositoryPattern_NetCore\Test.API.UnitTest\obj\Debug\netcoreapp1.1\Test.API.UnitTest.csproj.CoreCompileInputs.cache
+G:\MyDocument\Interviews\git repo\RepositoryPattern_NetCore\Test.API.UnitTest\obj\Debug\netcoreapp1.1\Test.API.UnitTest.AssemblyInfoInputs.cache
+G:\MyDocument\Interviews\git repo\RepositoryPattern_NetCore\Test.API.UnitTest\obj\Debug\netcoreapp1.1\Test.API.UnitTest.AssemblyInfo.cs
+G:\MyDocument\Interviews\git repo\RepositoryPattern_NetCore\Test.API.UnitTest\obj\Debug\netcoreapp1.1\Test.API.UnitTest.csproj.CopyComplete
+G:\MyDocument\Interviews\git repo\RepositoryPattern_NetCore\Test.API.UnitTest\obj\Debug\netcoreapp1.1\Test.API.UnitTest.dll
+G:\MyDocument\Interviews\git repo\RepositoryPattern_NetCore\Test.API.UnitTest\obj\Debug\netcoreapp1.1\Test.API.UnitTest.pdb

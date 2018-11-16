@@ -1,0 +1,76 @@
+C:\Users\karen.hovhannisyan\Desktop\Test_ApolloButes\Khoren.Test\Test.Web.Api\bin\Debug\netcoreapp1.1\Test.Web.Api.deps.json
+C:\Users\karen.hovhannisyan\Desktop\Test_ApolloButes\Khoren.Test\Test.Web.Api\bin\Debug\netcoreapp1.1\Test.Web.Api.runtimeconfig.json
+C:\Users\karen.hovhannisyan\Desktop\Test_ApolloButes\Khoren.Test\Test.Web.Api\bin\Debug\netcoreapp1.1\Test.Web.Api.runtimeconfig.dev.json
+C:\Users\karen.hovhannisyan\Desktop\Test_ApolloButes\Khoren.Test\Test.Web.Api\bin\Debug\netcoreapp1.1\Test.Web.Api.dll
+C:\Users\karen.hovhannisyan\Desktop\Test_ApolloButes\Khoren.Test\Test.Web.Api\bin\Debug\netcoreapp1.1\Test.Web.Api.pdb
+C:\Users\karen.hovhannisyan\Desktop\Test_ApolloButes\Khoren.Test\Test.Web.Api\bin\Debug\netcoreapp1.1\Test.Core.dll
+C:\Users\karen.hovhannisyan\Desktop\Test_ApolloButes\Khoren.Test\Test.Web.Api\bin\Debug\netcoreapp1.1\Test.Core.pdb
+C:\Users\karen.hovhannisyan\Desktop\Test_ApolloButes\Khoren.Test\Test.Web.Api\obj\Debug\netcoreapp1.1\Test.Web.Api.csprojResolveAssemblyReference.cache
+C:\Users\karen.hovhannisyan\Desktop\Test_ApolloButes\Khoren.Test\Test.Web.Api\obj\Debug\netcoreapp1.1\Test.Web.Api.csproj.CoreCompileInputs.cache
+C:\Users\karen.hovhannisyan\Desktop\Test_ApolloButes\Khoren.Test\Test.Web.Api\obj\Debug\netcoreapp1.1\Test.Web.Api.AssemblyInfo.cs
+C:\Users\karen.hovhannisyan\Desktop\Test_ApolloButes\Khoren.Test\Test.Web.Api\obj\Debug\netcoreapp1.1\Test.Web.Api.dll
+C:\Users\karen.hovhannisyan\Desktop\Test_ApolloButes\Khoren.Test\Test.Web.Api\obj\Debug\netcoreapp1.1\Test.Web.Api.pdb
+C:\Users\Khoren\Desktop\Test_ApolloButes\Khoren.Test\Test.Web.Api\bin\Debug\netcoreapp1.1\Test.Web.Api.deps.json
+C:\Users\Khoren\Desktop\Test_ApolloButes\Khoren.Test\Test.Web.Api\bin\Debug\netcoreapp1.1\Test.Web.Api.runtimeconfig.json
+C:\Users\Khoren\Desktop\Test_ApolloButes\Khoren.Test\Test.Web.Api\bin\Debug\netcoreapp1.1\Test.Web.Api.runtimeconfig.dev.json
+C:\Users\Khoren\Desktop\Test_ApolloButes\Khoren.Test\Test.Web.Api\obj\Debug\netcoreapp1.1\Test.Web.Api.csprojResolveAssemblyReference.cache
+C:\Users\Khoren\Desktop\Test_ApolloButes\Khoren.Test\Test.Web.Api\obj\Debug\netcoreapp1.1\Test.Web.Api.csproj.CoreCompileInputs.cache
+C:\Users\Khoren\Desktop\Test_ApolloButes\Khoren.Test\Test.Web.Api\obj\Debug\netcoreapp1.1\Test.Web.Api.AssemblyInfo.cs
+C:\Users\Khoren\Desktop\Test_ApolloButes\Khoren.Test\Test.Web.Api\bin\Debug\netcoreapp1.1\Test.Web.Api.dll
+C:\Users\Khoren\Desktop\Test_ApolloButes\Khoren.Test\Test.Web.Api\bin\Debug\netcoreapp1.1\Test.Web.Api.pdb
+C:\Users\Khoren\Desktop\Test_ApolloButes\Khoren.Test\Test.Web.Api\bin\Debug\netcoreapp1.1\Test.Core.dll
+C:\Users\Khoren\Desktop\Test_ApolloButes\Khoren.Test\Test.Web.Api\bin\Debug\netcoreapp1.1\Test.Core.pdb
+C:\Users\Khoren\Desktop\Test_ApolloButes\Khoren.Test\Test.Web.Api\obj\Debug\netcoreapp1.1\Test.Web.Api.dll
+C:\Users\Khoren\Desktop\Test_ApolloButes\Khoren.Test\Test.Web.Api\obj\Debug\netcoreapp1.1\Test.Web.Api.pdb
+C:\Users\Khoren\Desktop\Test_ApolloBytes\Khoren.Test\Test.Web.Api\bin\Debug\netcoreapp1.1\Test.Web.Api.deps.json
+C:\Users\Khoren\Desktop\Test_ApolloBytes\Khoren.Test\Test.Web.Api\bin\Debug\netcoreapp1.1\Test.Web.Api.runtimeconfig.json
+C:\Users\Khoren\Desktop\Test_ApolloBytes\Khoren.Test\Test.Web.Api\bin\Debug\netcoreapp1.1\Test.Web.Api.runtimeconfig.dev.json
+C:\Users\Khoren\Desktop\Test_ApolloBytes\Khoren.Test\Test.Web.Api\bin\Debug\netcoreapp1.1\Test.Web.Api.dll
+C:\Users\Khoren\Desktop\Test_ApolloBytes\Khoren.Test\Test.Web.Api\bin\Debug\netcoreapp1.1\Test.Web.Api.pdb
+C:\Users\Khoren\Desktop\Test_ApolloBytes\Khoren.Test\Test.Web.Api\bin\Debug\netcoreapp1.1\Test.Core.dll
+C:\Users\Khoren\Desktop\Test_ApolloBytes\Khoren.Test\Test.Web.Api\bin\Debug\netcoreapp1.1\Test.Core.pdb
+C:\Users\Khoren\Desktop\Test_ApolloBytes\Khoren.Test\Test.Web.Api\obj\Debug\netcoreapp1.1\Test.Web.Api.csprojResolveAssemblyReference.cache
+C:\Users\Khoren\Desktop\Test_ApolloBytes\Khoren.Test\Test.Web.Api\obj\Debug\netcoreapp1.1\Test.Web.Api.csproj.CoreCompileInputs.cache
+C:\Users\Khoren\Desktop\Test_ApolloBytes\Khoren.Test\Test.Web.Api\obj\Debug\netcoreapp1.1\Test.Web.Api.AssemblyInfo.cs
+C:\Users\Khoren\Desktop\Test_ApolloBytes\Khoren.Test\Test.Web.Api\obj\Debug\netcoreapp1.1\Test.Web.Api.dll
+C:\Users\Khoren\Desktop\Test_ApolloBytes\Khoren.Test\Test.Web.Api\obj\Debug\netcoreapp1.1\Test.Web.Api.pdb
+G:\Khoren.Test_ApolloBytes\Test.Web.Api\bin\Debug\netcoreapp1.1\Test.Web.Api.deps.json
+G:\Khoren.Test_ApolloBytes\Test.Web.Api\bin\Debug\netcoreapp1.1\Test.Web.Api.runtimeconfig.json
+G:\Khoren.Test_ApolloBytes\Test.Web.Api\bin\Debug\netcoreapp1.1\Test.Web.Api.runtimeconfig.dev.json
+G:\Khoren.Test_ApolloBytes\Test.Web.Api\bin\Debug\netcoreapp1.1\Test.Web.Api.dll
+G:\Khoren.Test_ApolloBytes\Test.Web.Api\bin\Debug\netcoreapp1.1\Test.Web.Api.pdb
+G:\Khoren.Test_ApolloBytes\Test.Web.Api\bin\Debug\netcoreapp1.1\Test.Core.dll
+G:\Khoren.Test_ApolloBytes\Test.Web.Api\bin\Debug\netcoreapp1.1\Test.Core.pdb
+G:\Khoren.Test_ApolloBytes\Test.Web.Api\obj\Debug\netcoreapp1.1\Test.Web.Api.csprojResolveAssemblyReference.cache
+G:\Khoren.Test_ApolloBytes\Test.Web.Api\obj\Debug\netcoreapp1.1\Test.Web.Api.csproj.CoreCompileInputs.cache
+G:\Khoren.Test_ApolloBytes\Test.Web.Api\obj\Debug\netcoreapp1.1\Test.Web.Api.AssemblyInfo.cs
+G:\Khoren.Test_ApolloBytes\Test.Web.Api\obj\Debug\netcoreapp1.1\Test.Web.Api.dll
+G:\Khoren.Test_ApolloBytes\Test.Web.Api\obj\Debug\netcoreapp1.1\Test.Web.Api.pdb
+G:\MyDocument\Interviews\Khoren.Test_ApolloBytes\Test.Web.Api\bin\Debug\netcoreapp1.1\Test.Web.Api.deps.json
+G:\MyDocument\Interviews\Khoren.Test_ApolloBytes\Test.Web.Api\bin\Debug\netcoreapp1.1\Test.Web.Api.runtimeconfig.json
+G:\MyDocument\Interviews\Khoren.Test_ApolloBytes\Test.Web.Api\bin\Debug\netcoreapp1.1\Test.Web.Api.runtimeconfig.dev.json
+G:\MyDocument\Interviews\Khoren.Test_ApolloBytes\Test.Web.Api\bin\Debug\netcoreapp1.1\Test.Web.Api.dll
+G:\MyDocument\Interviews\Khoren.Test_ApolloBytes\Test.Web.Api\bin\Debug\netcoreapp1.1\Test.Web.Api.pdb
+G:\MyDocument\Interviews\Khoren.Test_ApolloBytes\Test.Web.Api\bin\Debug\netcoreapp1.1\Test.Core.dll
+G:\MyDocument\Interviews\Khoren.Test_ApolloBytes\Test.Web.Api\bin\Debug\netcoreapp1.1\Test.Core.pdb
+G:\MyDocument\Interviews\Khoren.Test_ApolloBytes\Test.Web.Api\obj\Debug\netcoreapp1.1\Test.Web.Api.csproj.CoreCompileInputs.cache
+G:\MyDocument\Interviews\Khoren.Test_ApolloBytes\Test.Web.Api\obj\Debug\netcoreapp1.1\Test.Web.Api.AssemblyInfo.cs
+G:\MyDocument\Interviews\Khoren.Test_ApolloBytes\Test.Web.Api\obj\Debug\netcoreapp1.1\Test.Web.Api.dll
+G:\MyDocument\Interviews\Khoren.Test_ApolloBytes\Test.Web.Api\obj\Debug\netcoreapp1.1\Test.Web.Api.pdb
+G:\MyDocument\Interviews\Khoren.Test_ApolloBytes\Test.Web.Api\obj\Debug\netcoreapp1.1\Test.Web.Api.csprojAssemblyReference.cache
+G:\MyDocument\Interviews\Khoren.Test_ApolloBytes\Test.Web.Api\obj\Debug\netcoreapp1.1\Test.Web.Api.AssemblyInfoInputs.cache
+G:\MyDocument\Interviews\Khoren.Test_ApolloBytes\Test.Web.Api\obj\Debug\netcoreapp1.1\Test.Web.Api.csproj.CopyComplete
+G:\MyDocument\Interviews\git repo\RepositoryPattern_NetCore\Test.Web.Api\bin\Debug\netcoreapp1.1\Test.Web.Api.deps.json
+G:\MyDocument\Interviews\git repo\RepositoryPattern_NetCore\Test.Web.Api\bin\Debug\netcoreapp1.1\Test.Web.Api.runtimeconfig.json
+G:\MyDocument\Interviews\git repo\RepositoryPattern_NetCore\Test.Web.Api\bin\Debug\netcoreapp1.1\Test.Web.Api.runtimeconfig.dev.json
+G:\MyDocument\Interviews\git repo\RepositoryPattern_NetCore\Test.Web.Api\bin\Debug\netcoreapp1.1\Test.Web.Api.dll
+G:\MyDocument\Interviews\git repo\RepositoryPattern_NetCore\Test.Web.Api\bin\Debug\netcoreapp1.1\Test.Web.Api.pdb
+G:\MyDocument\Interviews\git repo\RepositoryPattern_NetCore\Test.Web.Api\bin\Debug\netcoreapp1.1\Test.Core.dll
+G:\MyDocument\Interviews\git repo\RepositoryPattern_NetCore\Test.Web.Api\bin\Debug\netcoreapp1.1\Test.Core.pdb
+G:\MyDocument\Interviews\git repo\RepositoryPattern_NetCore\Test.Web.Api\obj\Debug\netcoreapp1.1\Test.Web.Api.csprojAssemblyReference.cache
+G:\MyDocument\Interviews\git repo\RepositoryPattern_NetCore\Test.Web.Api\obj\Debug\netcoreapp1.1\Test.Web.Api.csproj.CoreCompileInputs.cache
+G:\MyDocument\Interviews\git repo\RepositoryPattern_NetCore\Test.Web.Api\obj\Debug\netcoreapp1.1\Test.Web.Api.AssemblyInfoInputs.cache
+G:\MyDocument\Interviews\git repo\RepositoryPattern_NetCore\Test.Web.Api\obj\Debug\netcoreapp1.1\Test.Web.Api.AssemblyInfo.cs
+G:\MyDocument\Interviews\git repo\RepositoryPattern_NetCore\Test.Web.Api\obj\Debug\netcoreapp1.1\Test.Web.Api.csproj.CopyComplete
+G:\MyDocument\Interviews\git repo\RepositoryPattern_NetCore\Test.Web.Api\obj\Debug\netcoreapp1.1\Test.Web.Api.dll
+G:\MyDocument\Interviews\git repo\RepositoryPattern_NetCore\Test.Web.Api\obj\Debug\netcoreapp1.1\Test.Web.Api.pdb

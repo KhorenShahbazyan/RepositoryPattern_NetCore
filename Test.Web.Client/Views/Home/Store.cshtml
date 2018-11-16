@@ -1,0 +1,52 @@
+﻿@{
+    ViewData["Title"] = "Store";
+}
+
+<div>
+    <div class="container mt-10">
+        <div class="row height-40">
+            <div class="col-sm-2 col-md-1 col-lg-1">
+                Category
+            </div>
+            <div class="col-sm-2 col-md-2 col-lg-2">
+                <select id="CategoryList" onChange="changeCategory(this.value);">
+                    <option value="0" selected> All </option>
+                </select>
+            </div>
+            <div class="col-sm-2 col-md-offset-2 col-md-1 col-lg-offset-2 col-lg-1">
+                Your Cart:
+            </div>
+            <div class="col-sm-2 col-md-1 col-lg-1">
+                Count : <span id="CartTotalCount">0</span>
+            </div>
+            <div class="col-sm-2 col-md-2 col-lg-2">
+                Amount : <span id="CartTotalPrice">0</span>
+            </div>
+            <div class="col-sm-2 col-md-1 col-lg-1">
+                <input type="button" value="Order" onclick="AddOrder()">
+            </div>
+            <div class="col-sm-2 col-md-2 col-lg-2">
+                <input type="button" value="Checkout" onclick="redirectShopping()">
+            </div>
+        </div>
+        <div class="row height-40">
+            <span id="yourcart" class="yourcartinfo"> Your cart is Empty, please Օrder </span>
+        </div>
+    </div>
+    <div class="row">
+        <table class="table table-striped table-hover table-bordered">
+            <thead>
+                <tr>
+                    <th class="center">Name</th>
+                    <th class="center">Description</th>
+                    <th class="center">Price</th>
+                    <th class="center"></th>
+                </tr>
+            </thead>
+            <tbody id="product"></tbody>
+        </table>
+
+    </div>
+</div>
+
+

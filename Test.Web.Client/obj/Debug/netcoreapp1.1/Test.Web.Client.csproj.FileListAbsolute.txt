@@ -1,0 +1,74 @@
+C:\Users\Khoren\Desktop\Test_ApolloButes\Khoren.Test\Test.Web.Client\bin\Debug\netcoreapp1.1\Test.Web.Client.deps.json
+C:\Users\Khoren\Desktop\Test_ApolloButes\Khoren.Test\Test.Web.Client\bin\Debug\netcoreapp1.1\Test.Web.Client.runtimeconfig.json
+C:\Users\Khoren\Desktop\Test_ApolloButes\Khoren.Test\Test.Web.Client\bin\Debug\netcoreapp1.1\Test.Web.Client.runtimeconfig.dev.json
+C:\Users\Khoren\Desktop\Test_ApolloButes\Khoren.Test\Test.Web.Client\obj\Debug\netcoreapp1.1\Test.Web.Client.csprojResolveAssemblyReference.cache
+C:\Users\Khoren\Desktop\Test_ApolloButes\Khoren.Test\Test.Web.Client\obj\Debug\netcoreapp1.1\Test.Web.Client.csproj.CoreCompileInputs.cache
+C:\Users\Khoren\Desktop\Test_ApolloButes\Khoren.Test\Test.Web.Client\obj\Debug\netcoreapp1.1\Test.Web.Client.AssemblyInfo.cs
+C:\Users\Khoren\Desktop\Test_ApolloButes\Khoren.Test\Test.Web.Client\bin\Debug\netcoreapp1.1\Test.Web.Client.dll
+C:\Users\Khoren\Desktop\Test_ApolloButes\Khoren.Test\Test.Web.Client\bin\Debug\netcoreapp1.1\Test.Web.Client.pdb
+C:\Users\Khoren\Desktop\Test_ApolloButes\Khoren.Test\Test.Web.Client\bin\Debug\netcoreapp1.1\Test.Core.dll
+C:\Users\Khoren\Desktop\Test_ApolloButes\Khoren.Test\Test.Web.Client\bin\Debug\netcoreapp1.1\Test.Web.Api.dll
+C:\Users\Khoren\Desktop\Test_ApolloButes\Khoren.Test\Test.Web.Client\bin\Debug\netcoreapp1.1\Test.Web.Api.pdb
+C:\Users\Khoren\Desktop\Test_ApolloButes\Khoren.Test\Test.Web.Client\bin\Debug\netcoreapp1.1\Test.Core.pdb
+C:\Users\Khoren\Desktop\Test_ApolloButes\Khoren.Test\Test.Web.Client\obj\Debug\netcoreapp1.1\Test.Web.Client.dll
+C:\Users\Khoren\Desktop\Test_ApolloButes\Khoren.Test\Test.Web.Client\obj\Debug\netcoreapp1.1\Test.Web.Client.pdb
+C:\Users\Khoren\Desktop\Test_ApolloBytes\Khoren.Test\Test.Web.Client\bin\Debug\netcoreapp1.1\Test.Web.Client.deps.json
+C:\Users\Khoren\Desktop\Test_ApolloBytes\Khoren.Test\Test.Web.Client\bin\Debug\netcoreapp1.1\Test.Web.Client.runtimeconfig.json
+C:\Users\Khoren\Desktop\Test_ApolloBytes\Khoren.Test\Test.Web.Client\bin\Debug\netcoreapp1.1\Test.Web.Client.runtimeconfig.dev.json
+C:\Users\Khoren\Desktop\Test_ApolloBytes\Khoren.Test\Test.Web.Client\bin\Debug\netcoreapp1.1\Test.Web.Client.dll
+C:\Users\Khoren\Desktop\Test_ApolloBytes\Khoren.Test\Test.Web.Client\bin\Debug\netcoreapp1.1\Test.Web.Client.pdb
+C:\Users\Khoren\Desktop\Test_ApolloBytes\Khoren.Test\Test.Web.Client\bin\Debug\netcoreapp1.1\Test.Core.dll
+C:\Users\Khoren\Desktop\Test_ApolloBytes\Khoren.Test\Test.Web.Client\bin\Debug\netcoreapp1.1\Test.Web.Api.dll
+C:\Users\Khoren\Desktop\Test_ApolloBytes\Khoren.Test\Test.Web.Client\bin\Debug\netcoreapp1.1\Test.Web.Api.pdb
+C:\Users\Khoren\Desktop\Test_ApolloBytes\Khoren.Test\Test.Web.Client\bin\Debug\netcoreapp1.1\Test.Core.pdb
+C:\Users\Khoren\Desktop\Test_ApolloBytes\Khoren.Test\Test.Web.Client\obj\Debug\netcoreapp1.1\Test.Web.Client.csprojResolveAssemblyReference.cache
+C:\Users\Khoren\Desktop\Test_ApolloBytes\Khoren.Test\Test.Web.Client\obj\Debug\netcoreapp1.1\Test.Web.Client.csproj.CoreCompileInputs.cache
+C:\Users\Khoren\Desktop\Test_ApolloBytes\Khoren.Test\Test.Web.Client\obj\Debug\netcoreapp1.1\Test.Web.Client.AssemblyInfo.cs
+C:\Users\Khoren\Desktop\Test_ApolloBytes\Khoren.Test\Test.Web.Client\obj\Debug\netcoreapp1.1\Test.Web.Client.dll
+C:\Users\Khoren\Desktop\Test_ApolloBytes\Khoren.Test\Test.Web.Client\obj\Debug\netcoreapp1.1\Test.Web.Client.pdb
+G:\Khoren.Test_ApolloBytes\Test.Web.Client\bin\Debug\netcoreapp1.1\Test.Web.Client.deps.json
+G:\Khoren.Test_ApolloBytes\Test.Web.Client\bin\Debug\netcoreapp1.1\Test.Web.Client.runtimeconfig.json
+G:\Khoren.Test_ApolloBytes\Test.Web.Client\bin\Debug\netcoreapp1.1\Test.Web.Client.runtimeconfig.dev.json
+G:\Khoren.Test_ApolloBytes\Test.Web.Client\bin\Debug\netcoreapp1.1\Test.Web.Client.dll
+G:\Khoren.Test_ApolloBytes\Test.Web.Client\bin\Debug\netcoreapp1.1\Test.Web.Client.pdb
+G:\Khoren.Test_ApolloBytes\Test.Web.Client\bin\Debug\netcoreapp1.1\Test.Core.dll
+G:\Khoren.Test_ApolloBytes\Test.Web.Client\bin\Debug\netcoreapp1.1\Test.Web.Api.dll
+G:\Khoren.Test_ApolloBytes\Test.Web.Client\bin\Debug\netcoreapp1.1\Test.Web.Api.pdb
+G:\Khoren.Test_ApolloBytes\Test.Web.Client\bin\Debug\netcoreapp1.1\Test.Core.pdb
+G:\Khoren.Test_ApolloBytes\Test.Web.Client\obj\Debug\netcoreapp1.1\Test.Web.Client.csprojResolveAssemblyReference.cache
+G:\Khoren.Test_ApolloBytes\Test.Web.Client\obj\Debug\netcoreapp1.1\Test.Web.Client.csproj.CoreCompileInputs.cache
+G:\Khoren.Test_ApolloBytes\Test.Web.Client\obj\Debug\netcoreapp1.1\Test.Web.Client.AssemblyInfo.cs
+G:\Khoren.Test_ApolloBytes\Test.Web.Client\obj\Debug\netcoreapp1.1\Test.Web.Client.dll
+G:\Khoren.Test_ApolloBytes\Test.Web.Client\obj\Debug\netcoreapp1.1\Test.Web.Client.pdb
+G:\MyDocument\Interviews\Khoren.Test_ApolloBytes\Test.Web.Client\bin\Debug\netcoreapp1.1\Test.Web.Client.deps.json
+G:\MyDocument\Interviews\Khoren.Test_ApolloBytes\Test.Web.Client\bin\Debug\netcoreapp1.1\Test.Web.Client.runtimeconfig.json
+G:\MyDocument\Interviews\Khoren.Test_ApolloBytes\Test.Web.Client\bin\Debug\netcoreapp1.1\Test.Web.Client.runtimeconfig.dev.json
+G:\MyDocument\Interviews\Khoren.Test_ApolloBytes\Test.Web.Client\bin\Debug\netcoreapp1.1\Test.Web.Client.dll
+G:\MyDocument\Interviews\Khoren.Test_ApolloBytes\Test.Web.Client\bin\Debug\netcoreapp1.1\Test.Web.Client.pdb
+G:\MyDocument\Interviews\Khoren.Test_ApolloBytes\Test.Web.Client\bin\Debug\netcoreapp1.1\Test.Core.dll
+G:\MyDocument\Interviews\Khoren.Test_ApolloBytes\Test.Web.Client\bin\Debug\netcoreapp1.1\Test.Web.Api.dll
+G:\MyDocument\Interviews\Khoren.Test_ApolloBytes\Test.Web.Client\bin\Debug\netcoreapp1.1\Test.Web.Api.pdb
+G:\MyDocument\Interviews\Khoren.Test_ApolloBytes\Test.Web.Client\bin\Debug\netcoreapp1.1\Test.Core.pdb
+G:\MyDocument\Interviews\Khoren.Test_ApolloBytes\Test.Web.Client\obj\Debug\netcoreapp1.1\Test.Web.Client.csproj.CoreCompileInputs.cache
+G:\MyDocument\Interviews\Khoren.Test_ApolloBytes\Test.Web.Client\obj\Debug\netcoreapp1.1\Test.Web.Client.AssemblyInfo.cs
+G:\MyDocument\Interviews\Khoren.Test_ApolloBytes\Test.Web.Client\obj\Debug\netcoreapp1.1\Test.Web.Client.dll
+G:\MyDocument\Interviews\Khoren.Test_ApolloBytes\Test.Web.Client\obj\Debug\netcoreapp1.1\Test.Web.Client.pdb
+G:\MyDocument\Interviews\Khoren.Test_ApolloBytes\Test.Web.Client\obj\Debug\netcoreapp1.1\Test.Web.Client.csprojAssemblyReference.cache
+G:\MyDocument\Interviews\Khoren.Test_ApolloBytes\Test.Web.Client\obj\Debug\netcoreapp1.1\Test.Web.Client.AssemblyInfoInputs.cache
+G:\MyDocument\Interviews\Khoren.Test_ApolloBytes\Test.Web.Client\obj\Debug\netcoreapp1.1\Test.Web.Client.csproj.CopyComplete
+G:\MyDocument\Interviews\git repo\RepositoryPattern_NetCore\Test.Web.Client\bin\Debug\netcoreapp1.1\Test.Web.Client.deps.json
+G:\MyDocument\Interviews\git repo\RepositoryPattern_NetCore\Test.Web.Client\bin\Debug\netcoreapp1.1\Test.Web.Client.runtimeconfig.json
+G:\MyDocument\Interviews\git repo\RepositoryPattern_NetCore\Test.Web.Client\bin\Debug\netcoreapp1.1\Test.Web.Client.runtimeconfig.dev.json
+G:\MyDocument\Interviews\git repo\RepositoryPattern_NetCore\Test.Web.Client\bin\Debug\netcoreapp1.1\Test.Web.Client.dll
+G:\MyDocument\Interviews\git repo\RepositoryPattern_NetCore\Test.Web.Client\bin\Debug\netcoreapp1.1\Test.Web.Client.pdb
+G:\MyDocument\Interviews\git repo\RepositoryPattern_NetCore\Test.Web.Client\bin\Debug\netcoreapp1.1\Test.Core.dll
+G:\MyDocument\Interviews\git repo\RepositoryPattern_NetCore\Test.Web.Client\bin\Debug\netcoreapp1.1\Test.Web.Api.dll
+G:\MyDocument\Interviews\git repo\RepositoryPattern_NetCore\Test.Web.Client\bin\Debug\netcoreapp1.1\Test.Web.Api.pdb
+G:\MyDocument\Interviews\git repo\RepositoryPattern_NetCore\Test.Web.Client\bin\Debug\netcoreapp1.1\Test.Core.pdb
+G:\MyDocument\Interviews\git repo\RepositoryPattern_NetCore\Test.Web.Client\obj\Debug\netcoreapp1.1\Test.Web.Client.csprojAssemblyReference.cache
+G:\MyDocument\Interviews\git repo\RepositoryPattern_NetCore\Test.Web.Client\obj\Debug\netcoreapp1.1\Test.Web.Client.csproj.CoreCompileInputs.cache
+G:\MyDocument\Interviews\git repo\RepositoryPattern_NetCore\Test.Web.Client\obj\Debug\netcoreapp1.1\Test.Web.Client.AssemblyInfoInputs.cache
+G:\MyDocument\Interviews\git repo\RepositoryPattern_NetCore\Test.Web.Client\obj\Debug\netcoreapp1.1\Test.Web.Client.AssemblyInfo.cs
+G:\MyDocument\Interviews\git repo\RepositoryPattern_NetCore\Test.Web.Client\obj\Debug\netcoreapp1.1\Test.Web.Client.csproj.CopyComplete
+G:\MyDocument\Interviews\git repo\RepositoryPattern_NetCore\Test.Web.Client\obj\Debug\netcoreapp1.1\Test.Web.Client.dll
+G:\MyDocument\Interviews\git repo\RepositoryPattern_NetCore\Test.Web.Client\obj\Debug\netcoreapp1.1\Test.Web.Client.pdb
